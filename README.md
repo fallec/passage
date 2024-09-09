@@ -20,4 +20,4 @@ STL файл. Нормали корректны.
 
 Возможна настройка плотности вершин.
 
-<img width="500" height="300" alt="" src="https://github.com/fallec/passage/img.png">
+<img width="500" height="300" alt="" src="https://github.com/fallec/passage/blob/main/img.png">
